@@ -1,5 +1,4 @@
 # PyBay Meetup - PyTest: The Awesome Parts: The Code
-------------------------
 
 Here is the code I used in my live coding sessions at the (virtual) PyBay Meetup on March 11, 2020. If you attended that meetup and liked my talk, thanks so much!
 
@@ -30,7 +29,7 @@ pytest test_weather_service.py
 or
 
 ```
-pytest test test_fixture_weather_service.py
+pytest test_fixture_weather_service.py
 ```
 
 These API tests may not execute properly if you
